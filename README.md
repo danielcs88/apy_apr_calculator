@@ -1,1 +1,3 @@
-# apy_apr_calculator
+# APY/APR calculator
+
+Simple APY/APR calculator using Marimo.
